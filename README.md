@@ -4,7 +4,7 @@
 ### The purpose of this analysis is to use machine learning techniques to solve a credit card risk classification problem using the credit card credit dataset from LendingClub. We use various resampling methods such as RandomOverSampler, SMOTE, ClusterCentroids, and SMOTEENN, as well as ensemble classifiers such as BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk. By evaluating the performance of these models we can make a recommendation on which model should be used to predict credit risk.
 
 ## Results
-### Listed below displays the balanced accuracy score, precision, and recall scores of all six machine learning models.
+### Balanced accuracy is the average of the recall obtained on each class, used to evaluate classification models with imbalanced classes. Precision is a measure of how accurate a model's positive predictions are and is calculated as the ratio of true positives to the sum of true positives and false positives. Recall is a measure of a model's completeness and is calculated as the ratio of true positives to the sum of true positives and false negatives. Listed below displays the balanced accuracy score, precision, and recall scores of all six machine learning models.
 
 ### Naive Random Oversampling 
 * Balanced accuracy score is 0.6249984891886339
