@@ -73,5 +73,5 @@
 ![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/118647523/231835520-9fdf59df-6d9e-4017-92b7-c76fdc41c9ea.png)
 
 ## Summary:
-#### There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+### From all the models tested, the Easy Ensemble AdaBoost Classifier performed the best with the highest balanced accuracy score of 0.925 and the highest recall score for the high-risk class at 0.91. The precision score for the high-risk class was still low at 0.07, but this is likely due to the highly imbalanced nature of the dataset. It is recommend using the Easy Ensemble AdaBoost Classifier for this problem.
+
