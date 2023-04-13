@@ -70,8 +70,7 @@
   - Precision = 1.00
   - Recall = 0.94
 
-![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/118647523/231824258-b44eb2fe-80fc-40ec-bfdc-a98ee872860b.png)
-
+![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/118647523/231835520-9fdf59df-6d9e-4017-92b7-c76fdc41c9ea.png)
 
 ## Summary:
 #### There is a summary of the results (2 pt)
